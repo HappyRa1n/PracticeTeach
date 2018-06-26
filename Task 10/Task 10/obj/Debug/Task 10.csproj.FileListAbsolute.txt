@@ -1,0 +1,7 @@
+D:\проекты Visual Studio\Практика\Task 10\Task 10\obj\Debug\Task 10.csprojAssemblyReference.cache
+D:\проекты Visual Studio\Практика\Task 10\Task 10\obj\Debug\Task 10.csproj.CoreCompileInputs.cache
+D:\проекты Visual Studio\Практика\Task 10\Task 10\bin\Debug\Task 10.exe.config
+D:\проекты Visual Studio\Практика\Task 10\Task 10\bin\Debug\Task 10.exe
+D:\проекты Visual Studio\Практика\Task 10\Task 10\bin\Debug\Task 10.pdb
+D:\проекты Visual Studio\Практика\Task 10\Task 10\obj\Debug\Task 10.exe
+D:\проекты Visual Studio\Практика\Task 10\Task 10\obj\Debug\Task 10.pdb
