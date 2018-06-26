@@ -1,0 +1,7 @@
+D:\проекты Visual Studio\Практика\Task 3\Task 3\bin\Debug\Task 3.exe.config
+D:\проекты Visual Studio\Практика\Task 3\Task 3\bin\Debug\Task 3.exe
+D:\проекты Visual Studio\Практика\Task 3\Task 3\bin\Debug\Task 3.pdb
+D:\проекты Visual Studio\Практика\Task 3\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+D:\проекты Visual Studio\Практика\Task 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\проекты Visual Studio\Практика\Task 3\Task 3\obj\Debug\Task 3.exe
+D:\проекты Visual Studio\Практика\Task 3\Task 3\obj\Debug\Task 3.pdb
